@@ -57,5 +57,5 @@ production:
   database: ourstreetsofeugene_production
   pool:     5
   username: postgres
-  password: bandana
+  password: kathmandu143. 
   template: template0

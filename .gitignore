@@ -84,4 +84,4 @@ pickle-email-*.html
 *~
 
 # ignore database.yml
-config/database.yml
+/config/database.yml
